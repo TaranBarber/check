@@ -1,0 +1,10 @@
+tunnels:
+  web:
+    proto: http
+    addr: 3333
+  api:
+    proto: http
+    addr: 3000
+  pender:
+    proto: http
+    addr: 3200
